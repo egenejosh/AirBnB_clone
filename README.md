@@ -74,7 +74,6 @@ $
 ```
 
 ## Authors
+Egene Joshua egenejoshua@gmail.com
 
-Christian Chi | Email: [chrishalogen](mailto:christackoms@gmail.com) 
-
-Unama Edwin Sunday | Github: [edwinsundayunama](mailto:unamaedwin247@gmail.com)
+Aminat Animashaun
