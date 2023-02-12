@@ -76,4 +76,4 @@ $
 ## Authors
 Egene Joshua egenejoshua@gmail.com
 
-Aminat Animashaun
+Aminat Animashaun aminatanimashaun31@gmail.com
